@@ -1,5 +1,4 @@
 # Análise portuário de exportação de cargas a granel
-análise portuário de produtos a granel atracados
 O objetivo do projeto é fazer uma analise portuario com foco nas cargas a granel, analisando o tempo de atracação, dessa forma a nossa equipe se organizou com a divisão de tarefas em formato scrum.
 Foi dado inicio na coleta de dados relevantes para análise, os arquivos já compartilhados estavam em formato txt, nesses arquivos continham informações de atracação em um arquivo e de cargas em outro arquivo diferente, essa análise é feita nos anos de 2015 a 2023.
 
