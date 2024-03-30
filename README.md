@@ -5,3 +5,19 @@ Foi dado inicio na coleta de dados relevantes para análise, os arquivos já com
 Foi feito a codificação dos dados em linguagem de programação em python pelo google colab, podendo transformar e facilitar a visualização dos arquivos que estavam em txt para CSV, permitindo que seja feito a correlação de informação entre arquivos.
 
 Para nossa gestão de tarefas estamos utilizando ferramentas como slack, para otimização da comunicação entre a equipe, dessa forma compatilhamos informações e novas pesquisas, junto ao slack utilizamos o jira software para divisão e atribuição de tarefas, acompanhamento e evolução do projeto.
+
+🛠️ Ferramentas e Tecnologias utilizadas:
+
+• Slack
+
+•	Jira software
+
+•	Python
+
+•	GitHub
+
+•	5W2H
+
+•	Google coolab
+
+•	PowerBI
